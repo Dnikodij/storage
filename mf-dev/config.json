@@ -1,0 +1,21 @@
+{
+  "realm": "Dev",
+  "palette": {
+    "primary": "#003050",
+    "secondary": "#C8004B",
+    "accent": "#A0B1BE",
+    "error": "#F44336",
+    "info": "#3d8ecc",
+    "success": "#4CAF50",
+    "warning": "#ea6d07"
+  },
+  "configs": {
+    "common": {
+      "footer": "/common/footer-config.json"
+    },
+    "console": {
+      "auth": "/console/auth-config.json",
+      "sidebar": "/console/sidebar-config.json"
+    }
+  }
+}
