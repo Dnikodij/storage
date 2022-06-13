@@ -18,5 +18,9 @@
       "icon": "mdi-transit-connection-horizontal",
       "link": "/flows"
     }
-  ]
+  ],
+  "favorites": {
+    "enabled": false,
+    "uri": ""
+  }
 }
