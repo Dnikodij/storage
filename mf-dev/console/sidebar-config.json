@@ -21,6 +21,6 @@
   ],
   "favorites": {
     "enabled": false,
-    "uri": ""
+    "uri": "localhost:3002/favorites"
   }
 }
