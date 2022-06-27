@@ -4,23 +4,29 @@
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "links": [
     {
-      "title": "labels.mashups",
-      "icon": "mdi-file-tree",
+      "title": "labels.home",
+      "icon": "mdi-home",
       "link": "/"
     },
     {
-      "title": "labels.datasources",
-      "icon": "mdi-toolbox",
-      "link": "/datasources"
+      "title": "labels.all-services",
+      "icon": "mdi-view-day-outline",
+      "link": "/all-services"
     },
     {
-      "title": "labels.flows",
-      "icon": "mdi-transit-connection-horizontal",
-      "link": "/flows"
+      "title": "labels.docs",
+      "icon": "mdi-text-box-search",
+      "link": "https://docs.digital-enabler.eng.it/"
+    },
+    {
+      "title": "labels.help-support",
+      "icon": "mdi-help-circle",
+      "link": ""
     }
+
   ],
   "favorites": {
     "enabled": false,
-    "uri": "http://localhost:3002/favorites"
+    "uri": ""
   }
 }
