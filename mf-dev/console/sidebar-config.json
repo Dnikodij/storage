@@ -11,7 +11,7 @@
     {
       "title": "labels.all-services",
       "icon": "mdi-view-day-outline",
-      "link": "/all-services"
+      "link": "/services"
     },
     {
       "title": "labels.docs",
