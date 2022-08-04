@@ -1,0 +1,15 @@
+{
+  "mf": "All Services",
+  "api": "//localhost:8083/api",
+  "dashboard-manager": "https://docs.digital-enabler.eng.it/",
+  "rule-manager": "https://docs.digital-enabler.eng.it/",
+  "data-mashup": "https://docs.digital-enabler.eng.it/",
+  "workflow-manager": "https://docs.digital-enabler.eng.it/",
+  "datasource-discovery-engine": "https://docs.digital-enabler.eng.it/",
+  "device-manager": "https://docs.digital-enabler.eng.it/",
+  "cloud-dev": "https://docs.digital-enabler.eng.it/",
+  "data-workspace": "https://docs.digital-enabler.eng.it/",
+  "tenant-manager": "https://docs.digital-enabler.eng.it/",
+  "identity-manager": "https://docs.digital-enabler.eng.it/"
+
+}
