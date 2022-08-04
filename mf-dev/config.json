@@ -15,7 +15,8 @@
     },
     "console": {
       "auth": "/console/auth-config.json",
-      "sidebar": "/console/sidebar-config.json"
+      "sidebar": "/console/sidebar-config.json",
+      "console-home": "/console/home-config.json"
     }
   }
 }
