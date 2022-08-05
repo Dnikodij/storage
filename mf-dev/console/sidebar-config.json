@@ -28,5 +28,9 @@
   "favorites": {
     "enabled": true,
     "uri": ""
+  },
+  "keycloak": {
+    "url" : "",
+    "clientId": ""
   }
 }
