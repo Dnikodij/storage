@@ -10,6 +10,6 @@
     "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@0.0.9/app.js",
     "@digital-enabler/console-gui": "https://mashupsui.dev.dev-digital-enabler.eng.it/dme/demf-console-gui.js",
     "@digital-enabler/demf-console-all-services": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-all-services@0.0.6/app.js",
-    "@digital-enabler/demf-console-home": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-home@0.0.7/app.js"
+    "@digital-enabler/demf-console-home": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-home@0.0.6/app.js"
   }
 }
