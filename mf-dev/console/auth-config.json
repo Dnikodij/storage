@@ -5,6 +5,6 @@
     "enabled": true,
     "url": "https://[idm_api_location]/auth",
     "clientId": "console-app",
-    "redirect": "https://[mf_root_location]"
+    "redirect": "localhost:9000"
   }
 }
