@@ -1,4 +1,10 @@
 {
   "mf": "Auth",
-  "api": "//localhost:8083/api"
+  "api": "https://[generic_api_location]/api",
+  "keycloak": {
+    "enabled": true,
+    "url": "https://[idm_api_location]/auth",
+    "clientId": "dbm-frontend-app",
+    "redirect": "https://[mf_root_location]"
+  }
 }
