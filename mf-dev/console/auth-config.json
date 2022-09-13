@@ -3,8 +3,8 @@
   "api": "https://[generic_api_location]/api",
   "keycloak": {
     "enabled": true,
-    "url": "https://[idm_api_location]/auth",
+    "url": "https://idm.dev-digital-enabler.eng.it/auth",
     "clientId": "console-app",
-    "redirect": "localhost:9000"
+    "redirect": "localhost:9000/"
   }
 }
