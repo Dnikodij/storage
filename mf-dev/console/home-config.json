@@ -21,5 +21,10 @@
   "createMashup": "https://mashupsui.dev.dev-digital-enabler.eng.it/",
   "defineWorkflow": "https://docs.digital-enabler.eng.it",
   "writeFunction": "https://docs.digital-enabler.eng.it",
-  "createDashboard": "https://docs.digital-enabler.eng.it"
+  "createDashboard": "https://docs.digital-enabler.eng.it",
+  "keycloak": {
+    "url": "https://idm.dev-digital-enabler.eng.it/auth",
+    "clientId": "dev",
+    "enabled": false
+  }
 }
