@@ -17,7 +17,8 @@
       "auth": "/console/auth-config.json",
       "sidebar": "/console/sidebar-config.json",
       "console-home": "/console/home-config.json",
-      "services": "/console/services-config.json"
+      "services": "/console/services-config.json",
+      "contexts": "/console/contexts-config.json"
     }
   }
 }
