@@ -1,4 +1,4 @@
 {
   "mf": "Contexts",
-  "api": "//localhost:8083/api"
+  "api": "https://api-tenants.dev.dev-digital-enabler.eng.it/api"
 }
