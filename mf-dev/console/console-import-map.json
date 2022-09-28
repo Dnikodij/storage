@@ -11,6 +11,7 @@
     "@digital-enabler/console-gui": "https://mashupsui.dev.dev-digital-enabler.eng.it/dme/demf-console-gui.js",
     "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@0.0.1/app.js",
     "@digital-enabler/demf-console-home": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-home@0.0.6/app.js",
-    "@digital-enabler/demf-console-all-services": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-all-services@0.0.4/app.js"
+    "@digital-enabler/demf-console-all-services": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-console-all-services@0.0.4/app.js",
+     "@digital-enabler/demf-console-all-services": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-contexts@0.0.1/app.js"
   }
 }
