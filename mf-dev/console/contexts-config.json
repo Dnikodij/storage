@@ -1,10 +1,4 @@
 {
   "mf": "Contexts",
   "api": "https://api-tenants.dev.dev-digital-enabler.eng.it/api",
-  "keycloak": {
-    "enabled": true,
-    "url": "https://idm.dev-digital-enabler.eng.it/auth",
-    "clientId": "console-app",
-    "redirect": "localhost:9000"
-  }
 }
