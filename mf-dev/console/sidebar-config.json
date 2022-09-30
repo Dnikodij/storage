@@ -38,5 +38,6 @@
     "url": "https://idm.dev-digital-enabler.eng.it/auth",
     "enabled": true
   },
-  "logo": "https://demo.digital-enabler.eng.it/suite/static/imgs/de_logo.svg"
+  "logo": "/DigitalEnabler.svg",
+  "miniLogo": "/de-mini.svg"
 }
