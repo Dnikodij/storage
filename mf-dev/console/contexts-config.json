@@ -1,4 +1,9 @@
 {
   "mf": "Contexts",
-  "api": "https://api-tenants.dev.dev-digital-enabler.eng.it/api"
+  "api": "https://api-tenants.dev.dev-digital-enabler.eng.it/api",
+  "registerDevice": "https://docs.digital-enabler.eng.it",
+  "createMashup": "https://mashupsui.dev.dev-digital-enabler.eng.it/",
+  "defineWorkflow": "https://docs.digital-enabler.eng.it",
+  "writeFunction": "https://docs.digital-enabler.eng.it",
+  "createDashboard": "https://docs.digital-enabler.eng.it"
 }
