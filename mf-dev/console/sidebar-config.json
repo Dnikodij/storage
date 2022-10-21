@@ -35,8 +35,9 @@
     "uri": ""
   },
   "keycloak": {
-    "url": "https://idm.dev-digital-enabler.eng.it/auth",
-    "enabled": true
+    "url": "",
+    "clientId": "",
+    "enabled": false
   },
   "logo": "/DigitalEnabler.svg",
   "miniLogo": "/de-mini.svg"
