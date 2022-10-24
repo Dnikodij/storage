@@ -35,10 +35,9 @@
     "uri": ""
   },
   "keycloak": {
-    "url": "https://idm.dev-digital-enabler.eng.it/auth",
-    "clientId": "console-frontend-app",
-    "enabled": true,
-    "redirect": "http://localhost:9000"
+    "url": "",
+    "clientId": "",
+    "enabled": false
   },
   "logo": "/DigitalEnabler.svg",
   "miniLogo": "/de-mini.svg"
