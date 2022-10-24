@@ -14,7 +14,6 @@
       "footer": "/common/footer-config.json"
     },
     "console": {
-      "auth": "/console/auth-config.json",
       "sidebar": "/console/sidebar-config.json",
       "console-home": "/console/home-config.json",
       "event-handler": "/console/event-handler-config.json",
