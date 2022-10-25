@@ -5,6 +5,6 @@
     "url": "https://idm.dev-digital-enabler.eng.it/auth",
     "clientId": "console-app",
     "enabled": true,
-    "redirect": "http://localhost:9000"
+    "redirect": "http://localhost:9000/home"
   }
 }
