@@ -1,6 +1,6 @@
 {
   "mf": "All Services",
-  "api": "//localhost:8083/api",
+  "api": "https://dme-api.dev-digital-enabler.eng.it/api",
   "dashboardManager": "https://docs.digital-enabler.eng.it/",
   "ruleManager": "https://docs.digital-enabler.eng.it/",
   "dataMashup": "https://docs.digital-enabler.eng.it/",
