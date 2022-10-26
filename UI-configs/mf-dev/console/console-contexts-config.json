@@ -1,6 +1,6 @@
 {
   "mf": "Contexts",
-  "api": "https://api-tenants.dev.dev-digital-enabler.eng.it/api",
+  "api": "//localhost:8083/api",
   "filePath": ".jpg",
   "allCategories": [
    "Mobility",
