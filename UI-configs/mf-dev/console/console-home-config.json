@@ -10,8 +10,8 @@
     "identityManager":"https://docs.digital-enabler.eng.it/",
     "apiGateway": "https://docs.digital-enabler.eng.it/",
     "aiStudio": "https://docs.digital-enabler.eng.it/",
-    "storage": "",
-    "databaseManager": ""
+    "storage": "https://docs.digital-enabler.eng.it/",
+    "databaseManager": "https://docs.digital-enabler.eng.it/"
   },
   "welcome":{
     "digitalEnabler":"https://docs.digital-enabler.eng.it/#what-is-it",
@@ -28,6 +28,9 @@
     "createMashup":"https://mashupsui.dev.dev-digital-enabler.eng.it/",
     "defineWorkflow":"https://docs.digital-enabler.eng.it",
     "writeFunction":"https://docs.digital-enabler.eng.it",
-    "createDashboard":"https://docs.digital-enabler.eng.it"
+    "createDashboard":"https://docs.digital-enabler.eng.it",
+    "createDatabase": "https://docs.digital-enabler.eng.it/",
+    "storeFile": "https://docs.digital-enabler.eng.it/",
+    "defineExperiment": "https://docs.digital-enabler.eng.it/"
   }
 }
