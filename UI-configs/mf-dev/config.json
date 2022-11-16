@@ -37,7 +37,8 @@
       "eventHandler": "/console/console-event-handler-config.json",
       "consoleHome": "/console/console-home-config.json",
       "services": "/console/console-services-config.json",
-      "contexts": "/console/console-contexts-config.json"
+      "contexts": "/console/console-contexts-config.json",
+      "consoleAppbar": "/console/console-appbar-config.json"
     }
   }
 }
