@@ -3,7 +3,7 @@
   "api": "//localhost:8083/api",
   "keycloak": {
     "url": "https://idm.dev-digital-enabler.eng.it/auth",
-    "clientId": "console-app",
+    "clientId": "console-api",
     "enabled": true,
     "redirect": "http://localhost:9000/home"
   }
