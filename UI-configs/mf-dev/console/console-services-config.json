@@ -1,6 +1,7 @@
 {
   "mf": "All Services",
   "api": "//localhost:8099/api/v1",
+  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-dev/common/services.json",
   "dashboardManager": "https://docs.digital-enabler.eng.it/",
   "dataMashup": "https://docs.digital-enabler.eng.it/",
   "dataFlow": "https://docs.digital-enabler.eng.it/",
