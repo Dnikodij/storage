@@ -1,5 +1,5 @@
 {
     "mf": "Flow Editor",
-    "api": "//de.test.municity.municipia.eng.it:8083/api",
+    "api": "http://de.test.municity.municipia.eng.it:8083/api",
     "triggerProxyUrlLayout": "[protocol_current_url]//dme-proxy.[Tenant][domain_current_url]/mashups/[id_mashup]"
 }
