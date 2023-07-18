@@ -1,4 +1,4 @@
 {
   "mf": "Auth",
-  "api": "//localhost:8099/api"
+  "api": "//localhost:8099/api/v1"
 }
