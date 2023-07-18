@@ -1,6 +1,6 @@
 {
   "mf": "Console Appbar",
-  "api": "//localhost:8083/api",
+  "api": "//localhost:8099/api",
   "create":{
     "registerDevice":"https://docs.digital-enabler.eng.it",
     "createMashup":"https://mashupsui.dev.dev-digital-enabler.eng.it/",

@@ -1,6 +1,6 @@
 {
   "mf": "Console Home",
-  "api": "//localhost:8083/api",
+  "api": "//localhost:8099/api",
   "tools":{
     "dashboardManager":"",
     "dataMashup":"https://docs.digital-enabler.eng.it/",
