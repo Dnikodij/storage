@@ -41,6 +41,14 @@
       "services": "/console/console-services-config.json",
       "contexts": "/console/console-contexts-config.json",
       "consoleAppbar": "/console/console-appbar-config.json"
+    },
+    "rm": {
+      "ruleManager": "/rm/rm-common-config.json",
+      "auth": "/rm/rm-auth-config.json",
+      "eventHandler": "/rm/rm-event-handler-config.json",
+      "sidebar": "/rm/rm-sidebar-config.json",
+      "rulesList": "/rm/rm-rules-list-config.json",
+      "ruleEditor": "/rm/rm-rule-editor-config.json"
     }
   }
 }
