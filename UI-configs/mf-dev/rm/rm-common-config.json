@@ -12,7 +12,7 @@
          "icon": "mdi-file-tree"
       },
       {
-         "type": "orion",
+         "type": "orion-ld",
          "name": "Orion-LD",
          "icon": "mdi-vector-circle"
       }
