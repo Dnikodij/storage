@@ -12,8 +12,8 @@
          "icon": "mdi-file-tree"
       },
       {
-         "type": "orion-ld",
-         "name": "Orion-LD",
+         "type": "ngsi-entity",
+         "name": "NGSI Entity",
          "icon": "mdi-vector-circle"
       }
    ],
