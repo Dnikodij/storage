@@ -12,7 +12,7 @@
          "icon": "mdi-file-tree"
       },
       {
-         "type": "ngsi-entity",
+         "type": "ngsi-ld",
          "name": "NGSI Entity",
          "icon": "mdi-vector-circle"
       }
