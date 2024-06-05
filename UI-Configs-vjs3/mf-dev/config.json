@@ -55,6 +55,7 @@
       "sidebar": "/kpim/kpim-sidebar-config.json",
       "kpisList": "/kpim/kpim-kpis-list-config.json",
       "kpiDashboard": "/kpim/kpim-editor-dashboard-config.json",
+      "kpiEditor": "/kpim/kpim-editor-control-panel-config.json",
       "mashupsList": "/kpim/kpim-mashups-list-config.json"
     }
   }
