@@ -45,6 +45,11 @@
       "type":"file",
       "name":"File",
       "icon":"mdi-file"
+    },
+    {
+      "type": "calendar-event",
+      "name": "Google Calendar",
+      "icon": "mdi-calendar"
     }
   ],
   "actions":[
