@@ -1,7 +1,7 @@
 {
   "mf": "Sidebar",
   "api": "//localhost:8085/api/v1",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "storageImgs": "http://apps.digibuild-project.eu/focchi-storage/images",
   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-dev/common/services.json",
   "links": [
     {
@@ -17,7 +17,7 @@
   "keycloak": {
     "enabled": true
   },
-  "logo": "/rm/RuleManager.svg",
-  "miniLogo": "/de-mini.svg",
+  "logo": "/rm/digibuild-full-logo.png",
+  "miniLogo": "/rm/digibuild-mini-logo.png",
   "showServicesMenu": false
 }
