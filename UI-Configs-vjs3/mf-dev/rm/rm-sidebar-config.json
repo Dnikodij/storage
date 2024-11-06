@@ -8,6 +8,11 @@
       "title": "labels.rules",
       "icon": "mdi-ruler-square-compass",
       "link": "/rules"
+    },
+    {
+      "title": "Digital Twin",
+      "icon": "mdi-domain",
+      "link": "https://apps.digibuild-project.eu/focchi-twin/"
     }
   ],
   "favorites": {
